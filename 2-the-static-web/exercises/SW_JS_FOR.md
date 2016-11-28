@@ -57,7 +57,7 @@ Create an array that contains the names of American Presidents. Loop over that a
 
 ### Object iteration
 
-Use can use another kind of `for` loop to [iterate over objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...in). Iterate over the object below and use `console.log()` to output the names of the keys in the object.
+We can use another kind of `for` loop to [iterate over objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...in). Iterate over the object below and use `console.log()` to output the names of the keys in the object.
 
 ```js
 var antSpecies = {
